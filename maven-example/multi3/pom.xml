@@ -7,7 +7,7 @@
         <version>2.21-SNAPSHOT</version>
     </parent>
 
-    <artifactId>multi3+test</artifactId>
+    <artifactId>multi3</artifactId>
     <packaging>war</packaging>
     <name>Multi 3</name>
 
