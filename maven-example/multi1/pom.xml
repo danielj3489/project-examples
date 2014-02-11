@@ -62,7 +62,6 @@
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
             <artifactId>jsp-api</artifactId>
-            <url>https://repo.artifactoryonline.com/artifactory/artifactory-dependencies</url>
             <version>2.1</version>
             <scope>compile</scope>
         </dependency>
